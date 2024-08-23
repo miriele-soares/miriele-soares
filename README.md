@@ -5,4 +5,4 @@
 
 - 🔭 Trabalho como desevolvedora.
 - 👩‍🎓 Estou cursando engenharia de software na Estácio.
-- 🌱 Em meu tempo livre estou aprendendo Inglês e aprofundando meus conhecimentos no Laravel.
+- 🌱 Em meu tempo livre estou aprendendo Inglês.
