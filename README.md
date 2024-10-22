@@ -3,48 +3,25 @@
 Minha carreira começou no desenvolvimento web, atuando como Desenvolvedora Fullstack com PHP e Node.js. 
 A busca por novos desafios me levou a migrar para o desenvolvimento de aplicações em Delphi, onde estou focada atualmente. 
 
-Estou sempre em busca de aprimorar meus conhecimentos e expandir minhas capacidades.
-
 ## Tecnologias e ferramentas
-<div> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain-wordmark.svg" width="50" height="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="50" height="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50"/>           
-                          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="50" height="50"/>
-          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="50" height="50"/>  
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50"/>                  
-                     
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50"/>                
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" width="50" height="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/> 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="50" height="50"/>  
-          
-<br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" width="50" height="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original.svg" width="50" height="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain-wordmark.svg" width="50" height="50"/>
-          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="50" height="50"/>
-          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50" height="50"/>
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>  
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="50" height="50"/>
-          
+<div>
+  <img alt="Static Badge" src="https://img.shields.io/badge/-php-%23607eb3?style=for-the-badge&logo=php&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-codeigniter-%23e83f22?style=for-the-badge&logo=codeigniter&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-javascript-%23f0d53c?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-node-%2372a93a?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/delphi-EE1F35?style=for-the-badge&logo=Delphi"/>
 </div>
+<br>
+<div>
+  <img src="https://img.shields.io/badge/git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/-gitlab-%23f46a25?style=for-the-badge&logo=gitlab&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-filezilla-%23ac0000?style=for-the-badge&logo=filezilla&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-swagger-%2384b93e?style=for-the-badge&logo=swagger&logoColor=white">
+</div>
+<br>
+<div>
+  <img src ="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/-mysql-%231dabef?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
+<br>
