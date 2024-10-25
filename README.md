@@ -6,9 +6,8 @@ A busca por novos desafios me levou a migrar para o desenvolvimento de aplica√ß√
 ## Tecnologias e ferramentas
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/-php-%23607eb3?style=for-the-badge&logo=php&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-codeigniter-%23e83f22?style=for-the-badge&logo=codeigniter&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/-javascript-%23f0d53c?style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-node-%2372a93a?style=for-the-badge&logo=node.js&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/node.js-%2372a93a?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/delphi-EE1F35?style=for-the-badge&logo=Delphi"/>
 </div>
 <br>
@@ -17,7 +16,6 @@ A busca por novos desafios me levou a migrar para o desenvolvimento de aplica√ß√
   <img src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="Static Badge" src="https://img.shields.io/badge/-gitlab-%23f46a25?style=for-the-badge&logo=gitlab&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/-filezilla-%23ac0000?style=for-the-badge&logo=filezilla&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-swagger-%2384b93e?style=for-the-badge&logo=swagger&logoColor=white">
 </div>
 <br>
 <div>
