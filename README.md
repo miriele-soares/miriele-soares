@@ -1,7 +1,7 @@
 ## Olá! Eu sou Desenvolvedora de Software 👩‍💻
 
-Minha carreira começou no desenvolvimento web, atuando como Desenvolvedora Fullstack com PHP e Node.js. 
-A busca por novos desafios me levou a migrar para o desenvolvimento de aplicações em Delphi, onde estou focada atualmente. 
+Minha carreira começou no desenvolvimento web em 2023, atuando como Desenvolvedora Fullstack com PHP e Node.js. 
+A busca por novos desafios me levou a migrar para o desenvolvimento de aplicações em Delphi, na Solus Saúde. Posteriormente voltei a focar no desenvolvimento Web com PHP e hoje estou focada no desenvolvimento frontend de sistemas web utilizando React.
 
 ## Tecnologias e ferramentas
 <div>
